@@ -38,7 +38,7 @@
             "dist/credentials/UpstageApi.credentials.js"
         ],
         "nodes": [
-            "dist/nodes/Upstage/Upstage.node.js"
+            "dist/nodes/Upstage/UpstageDocumentParsing.node.js"
         ]
     },
     "devDependencies": {
