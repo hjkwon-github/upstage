@@ -13,7 +13,9 @@ export class HttpBin implements INodeType {
 		defaults: {
 			name: 'HttpBin',
 		},
+		// @ts-ignore
 		inputs: ['main'],
+		// @ts-ignore
 		outputs: ['main'],
 		credentials: [
 			{
